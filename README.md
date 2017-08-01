@@ -15,9 +15,10 @@ The initial plans include:
 - the `change of the state` of message prompting
 
 
-
 This is my blog: [My Blog](http://halohily.com). Welcome to visit my website.
-<br/>
-*halo*
+
+ 
+
+*halo* 
 *Aug. 1st, 2017*
 
