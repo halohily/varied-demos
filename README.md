@@ -17,7 +17,7 @@ The initial plans include:
 
 
 This is my blog: [My Blog](http://halohily.com). Welcome to visit my website.
-<br/><br/>
+<br/>
 *halo*
 *Aug. 1st, 2017*
 
